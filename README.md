@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+_A thousand or more questions on REX token answered by the community_ (in progress)
+
 **1) Is there a rex-token.com backup website?**  
 
 Yes! [https://internet-bonds.com/start](https://internet-bonds.com/start)
