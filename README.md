@@ -48,6 +48,10 @@ https://pancakeswap.finance/
 
 In crypto, your private keys are the most important thing in the world. They are the final and irrevocable proof that you own your tokens. If anyone has them, they can do anything with your tokens. Always write them down in a piece of paper and store it safely. In metamask they go for 12 (twelve) english random words.
 
+**13) Is there an early days REX historical data?**
+
+Yes. https://nomics.com/assets/rex2-rex/history
+
 
 
 
