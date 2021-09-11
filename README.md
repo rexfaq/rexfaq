@@ -62,11 +62,11 @@ You can buy it on the american partner of Binance: https://www.binance.us/en/hom
 
 Binance US does not have a withdrawal option for Smart Chain. Addresses from Binance chain (BEP) ALWAYS start with "bnb1" on it. Addresses from Binance Smart Chain (BEP20) ALWAYS start with "0x". Every transaction with REX smart contracts happens in Binance SMART Chain (BEP20). So in order to save on fees for swapping between chains you can always go for BEP20. 
 
-**16) Are staked Rex tokens shown on any Market Cap site calculation? 
+**16) Are staked Rex tokens shown on any Market Cap site calculation?** 
 
 No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the huge features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. Check the founder's specific comment on this feature here: https://t.me/eth_rex/54702
 
-**16) When did REX ecosystem hit the trading volume of 1MI USD for the first time?
+**16) When did REX ecosystem hit the trading volume of 1MI USD for the first time?**
 
 According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time. 
 
