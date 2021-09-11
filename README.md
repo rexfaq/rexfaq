@@ -38,7 +38,7 @@ Thomas, REX founder, gave a nod to this on the official Telegram channel. [https
 
 **10) Where can I revoke all my approved contracts on Metamask Wallet?**
 
-https://app.unrekt.net/
+https://app.unrekt.net/ (a more advanced version, but on beta, can be found here: https://v2.unrekt.net/).
 
 **11) PCS goes for?**
 
