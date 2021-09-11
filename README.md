@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_A thousand or more questions on REX token answered by the community_ (in progress)
+_A thousand or more questions on REX token answered by the community_ (in progress) https://rex-token.com/start
 
 **1) Is there a rex-token.com backup website?**  
 
