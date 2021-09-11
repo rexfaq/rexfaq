@@ -58,7 +58,7 @@ You can buy it on the american partner of Binance: https://www.binance.us/en/hom
 
 **15) When I withdraw my BNB coming from Binance or Binance US what network (chain) should I select, "Binance Chain" or "Smart Chain"?**
 
-Addresses from Binance chain (BEP) ALWAYS start with "bnb1" on it. Addresses from Binance Smart Chain (BEP20) ALWAYS start with "0x". Every transaction with REX smart contracts happens in Binance SMART Chain (BEP20). So in order to save on fees for swapping between chains you can always go for BEP20. 
+Binance US does not have a withdrawal option for Smart Chain. Addresses from Binance chain (BEP) ALWAYS start with "bnb1" on it. Addresses from Binance Smart Chain (BEP20) ALWAYS start with "0x". Every transaction with REX smart contracts happens in Binance SMART Chain (BEP20). So in order to save on fees for swapping between chains you can always go for BEP20. 
 
 
 
