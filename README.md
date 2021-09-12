@@ -2,11 +2,11 @@
 
 _A thousand or more questions on REX token answered by the community_ (in progress) https://rex-token.com/start
 
-**1) Is there a rex-token.com backup website?**  
+**1) What is the date of birth of Rex Token?**  
 
-Yes! [https://internet-bonds.com/start](https://internet-bonds.com/start)
+REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021.  
 
- **2) How can I recover my “Club 5555” status?**  
+**2) How can I recover my “Club 5555” status?**  
 
 By making another 5555 days stake with at least 100,000.00 Rex tokens.  
 
@@ -26,7 +26,7 @@ No. Not a single line of Rex can be altered. Ever. The contract is set in stone 
 
 No. Rex is sitting on Binance Smart Chain and currently there are 21 independent validators working for the chain. You can also run a full private node to support it. Check https://docs.binance.org/smart-chain/developer/fullnode.html.  
 
- **7) What is the date of birth of Rex Token?**  
+**7) What is the date of birth of Rex Token?**  
 
 REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021.  
 
@@ -69,6 +69,10 @@ No! This is a unique feature of Rex. When you stake all your Rex they are burnt.
 **16) When did REX ecosystem hit the trading volume of 1M USD for the first time?**
 
 According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time, an important milestone for the project and the community. 
+
+**17) Is there a rex-token.com backup website?**  
+
+Yes! [https://internet-bonds.com/start](https://internet-bonds.com/start)
 
 
 
