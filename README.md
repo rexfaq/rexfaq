@@ -66,10 +66,9 @@ Binance US does not have a withdrawal option for Smart Chain. Addresses from Bin
 
 No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the huge features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. Check the founder's specific comment on this feature here: https://t.me/eth_rex/54702
 
-**16) When did REX ecosystem hit the trading volume of 1MI USD for the first time?**
+**16) When did REX ecosystem hit the trading volume of 1M USD for the first time?**
 
-According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time. 
-
+According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time, an important milestone for the project. 
 
 
 
