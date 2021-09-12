@@ -24,7 +24,7 @@ No. Not a single line of Rex can be altered. Ever. The contract is set in stone 
 
 **6) Can Rex token and every other asset related to it be taken down, in any sense?**  
 
-No. Rex is sitting on Binance Smart Chain and currently there are thousands of independent full nodes running the chain.  
+No. Rex is sitting on Binance Smart Chain and currently there are 21 independent validators working for the chain. You can also run a full private node to support it. Check https://docs.binance.org/smart-chain/developer/fullnode.html.  
 
  **7) What is the date of birth of Rex Token?**  
 
@@ -34,7 +34,7 @@ REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 20
 
 Yes! As of now, none of them came from the same team that built REX.  
 
-**9) Will multiple stakes owned by the same wallet lead to more interest?**  
+**9) Is a general interest rate based on the multiple stakes owned by the same wallet in the way?**  
 
 Thomas, REX founder, gave a nod to this on the official Telegram channel. [https://t.me/eth_rex/85262](https://t.me/eth_rex/85262). It’s not yet available.
 
@@ -50,7 +50,7 @@ https://pancakeswap.finance/
 
 In crypto, your private keys are the most important thing in the world. They are the final and irrevocable proof that you own your tokens. If anyone has them, they can do anything with your tokens. Always write them down in a piece of paper and store it safely. In metamask they go for 12 (twelve) english random words.
 
-**13) Is there an early days REX historical price and Mcap data?**
+**13) Is there an early days REX historical price and Market cap data?**
 
 Yes. https://nomics.com/assets/rex2-rex/history
 
@@ -64,11 +64,11 @@ Binance US does not have a withdrawal option for Smart Chain. Addresses from Bin
 
 **16) Are staked Rex tokens shown on any Market Cap site calculation?** 
 
-No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the huge features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. Check the founder's specific comment on this feature here: https://t.me/eth_rex/54702
+No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the main features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. Check the founder's specific comment on this feature here: https://t.me/eth_rex/54702
 
 **16) When did REX ecosystem hit the trading volume of 1M USD for the first time?**
 
-According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time, an important milestone for the project. 
+According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time, an important milestone for the project and the community. 
 
 
 
