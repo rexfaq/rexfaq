@@ -36,7 +36,7 @@ Yes! As of now, none of them came from the same team that built REX.
 
 **9) Will multiple stakes owned by the same wallet lead to more interest?**  
 
-Thomas, REX founder, gave a nod to this on the official Telegram channel. [https://t.me/eth_rex/85262](https://t.me/eth_rex/85262). It’s not yet avaiable.
+Thomas, REX founder, gave a nod to this on the official Telegram channel. [https://t.me/eth_rex/85262](https://t.me/eth_rex/85262). It’s not yet available.
 
 **10) Where can I revoke all my approved contracts on Metamask Wallet?**
 
