@@ -74,5 +74,9 @@ Yes! [https://internet-bonds.com/start](https://internet-bonds.com/start)
 
 Yes. A wallet holding a MREX enables the SCRAPE function of a stake. This means you can scrape your interest earlier than what your timelock allows you to do so without penalty. It allows you to rename your stake also, and this name is a transaction. It's useful to get information about your stake five, six years later. Finally, there are only 10.000 MREX available in the whole world. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. 
 
+**19) Does holding more MREX make me receive more % of bnb from the auctions ?**
+
+No. 
+
 
 
