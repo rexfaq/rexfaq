@@ -114,7 +114,7 @@ Yes!
 🇲🇾 Malesian : https://t.me/rex_Malaysia_Indonesia
 🇵🇭 philippines : https://t.me/joinchat/uiLxDGw0uW1iN2Q9
 
-**25) "It’s to my understanding that if you scrape interest, it lowers your over all shares as well. Does it lower it to the current share rate at the time of the scrape?**
+**25) "It’s to my understanding that if you scrape interest, it lowers your over all shares as well. Does it lower it to the current share rate at the time of the scrape?"**
 
 Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. The shares are dilluted in benefit of all other stakes. 
 
