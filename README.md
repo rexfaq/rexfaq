@@ -115,7 +115,13 @@ Yes!
 
 **25) "It’s to my understanding that if you scrape interest, it lowers your over all shares as well. Does it lower it to the current share rate at the time of the scrape?**
 
-Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. 
+Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. The shares are dilluted in benefit of all other stakes. 
+
+**26) Why do we need Mrex to scrape the interest ? How much do we need it ?**
+
+Part of REX project game theory and tokenomics comes from MREX and TREX features. Thing of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. 
+
+
 
 
 
