@@ -86,9 +86,10 @@ Yes, up until the end of the auction. After, only wallets that didn't win become
 
 Big pay days. 
 
-**22) Does BPD appears on the dashboard only if win? And If I don’t claim by the time the next auction starts do you lose it?**
+**22) Does BPD appears on the dashboard only if win? And If I don’t claim by the time the next auction starts do I lose it?**
 
-Yes. No. 
+Yes.
+No. 
 
 **23) How do I achieve ULTRA REXICAN status?**
 
