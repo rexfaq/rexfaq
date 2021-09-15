@@ -8,7 +8,7 @@ REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 20
 
 **2) How can I recover my “Club 5555” status?**  
 
-By making another 5555 days stake with at least 100,000.00 Rex tokens.  
+By making another 5555 days stake with at least 100,000.00 Rex tokens.
 
 **3) What are the benefits of “Club 5555” status?**  
 
@@ -76,7 +76,7 @@ Yes. A wallet holding a MREX enables the SCRAPE function of a stake. This means 
 
 **19) Does holding more MREX makes me receive more % of bnb from the auctions ?**
 
-No. 
+No. Only for referals reward. 1MREX = 4% BNB reward. 20 MREX = 6% BNB reward. So the amount varies from 4% to 6%. 
 
 **20) Can someone win BPD multiple times?**
 
@@ -85,6 +85,39 @@ Yes, up until the end of the auction. After, only wallets that didn't win become
 **21) BPD goes for?**
 
 Big pay days. 
+
+**22) Does BPD appears on the dashboard only if win? And If I don’t claim by the time the next auction starts do you lose it?**
+
+Yes. No. 
+
+**23) How do I achieve ULTRA REXICAN status?**
+
+By accumulating 25 bnb or more via referal rewards. In order to receive BNB for referal rewards (plus REX) your wallet needs to hold atleast one MREX. 
+
+
+**24) Does it makes sense that in one BPD day all wallets being rewarded are new wallets and in another day all of them are old wallets?**
+
+The first address is drawn randomly, then it's given out sequentially. This is the most efficient way to do it on the blockchain as Thomas has explained a long time ago. So all new wallets just means the first one picked is very new. Courtesy of @homuraaaaaa: https://t.me/c/1443915360/10209
+
+**25) Are there other Telegram groups for REX?**
+
+Yes!
+🇷🇺 Russian : https://t.me/rex_russia
+🇨🇳 Chinese : https://t.me/rex_china
+🇮🇹 Italian :  https://t.me/rex_italia 
+🇹🇷 Turkey : https://t.me/rex_turk
+🇮🇳 Indian : t.me/rex_india 
+🏴 Quebec : https://t.me/Rex_Quebec
+🇵🇱 Polish : https://t.me/rex_pl 
+🇯🇵 Japanese : https://t.me/rexjapan 
+🇲🇾 Malesian : https://t.me/rex_Malaysia_Indonesia
+🇵🇭 philippines : https://t.me/joinchat/uiLxDGw0uW1iN2Q9
+
+**25) "It’s to my understanding that if you scrape interest, it lowers your over all shares as well. Does it lower it to the current share rate at the time of the scrape?**
+
+Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. 
+
+
 
 
 
