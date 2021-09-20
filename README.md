@@ -162,6 +162,42 @@ No. Only stakes made with a TREX in the same wallet will get the perk.
 
 Please check answer (24) of this FAQ. 
 
+**37) Without Trex, what are the benefits of a 5555 days stake?**
+
+5555 status, 7x multiplier on your number of shares, 0,X% something interest daily, as of today, and token apreciation. Also consider the fact that after 7.5 years you can finish your stake without any penalty. It's up to you. 
+
+**38) Will REX project develop a DEX (Descentralized exchange) for selling stakes, perking stakes with TREX and MREX and so forth?**
+
+Check the dev answer to this there: https://t.me/eth_rex/106978. As of today, this is all we know so far about it. 
+
+**39) How is TREX apreciation going?**
+
+Very very strong right now. Here is a deterministic pancakeswap chart: 
+
+At 16 TREX = 7941.18 BUSD/TREX
+At 15 TREX = 9000.00 BUSD/TREX
+At 14 TREX = 10285.71 BUSD/TREX
+At 13 TREX = 11868.13 BUSD/TREX
+At 12 TREX = 13846.15 BUSD/TREX
+At 11 TREX = 16363.64 BUSD/TREX
+At 10 TREX = 19636.36 BUSD/TREX
+At 9 TREX = 24000.00 BUSD/TREX
+At 8 TREX = 30000.00 BUSD/TREX
+At 7 TREX = 38571.43 BUSD/TREX
+At 6 TREX = 51428.57 BUSD/TREX
+At 5 TREX = 72000.00 BUSD/TREX
+At 4 TREX = 108000.00 BUSD/TREX
+At 3 TREX = 180000.00 BUSD/TREX
+At 2 TREX = 360000.00 BUSD/TREX
+At 1 TREX = 1080000.00 BUSD/TREX
+
+Courtesy of @xqzi. 
+
+
+
+
+
+
 
 
 
