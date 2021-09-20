@@ -146,15 +146,15 @@ Yes! The option "close" will be available in the first 24 hours of your stake if
 
 It will only appear in your dashboard if you won it! No, you don't lose unclaimed BPDs. They accumulate. 
 
-**33) Hi, it is stated that if you have 100k rex staked, you will be a member  of Club 5555. I have 102k, but I am not in the club. Anyone knows why?
+**33) Hi, it is stated that if you have 100k rex staked, you will be a member  of Club 5555. I have 102k, but I am not in the club. Anyone knows why?**
 
 5555 club means that you own more than 100k rex staked PLUS a 5555 days stake (maximum period). In that case you don't have a 5555 days period stake. 
 
-**34) If get a TrEX now will it affect my stakes that are already made?
+**34) If get a TrEX now will it affect my stakes that are already made?**
 
 No. Only stakes made with a TREX in the same wallet will get the perk. 
 
-**35) What is the current daily interest % for TREX stakes, as in today (09.20.21)?
+**35) What is the current daily interest % for TREX stakes, as in today (09.20.21)?**
 
 13.30%
 
