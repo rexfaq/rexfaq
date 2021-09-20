@@ -170,7 +170,7 @@ Please check answer (24) of this FAQ.
 
 Check the dev answer to this there: https://t.me/eth_rex/106978. As of today, this is all we know so far about it. 
 
-**39) How is TREX apreciation going? 
+**39) How is TREX apreciation going?** 
 
 Very very strong right now. Here is a deterministic pancakeswap chart (Courtesy of @xqzi from TG group https://t.me/eth_rex/111056): 
 
