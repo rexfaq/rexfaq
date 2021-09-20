@@ -172,7 +172,7 @@ Check the dev answer to this there: https://t.me/eth_rex/106978. As of today, th
 
 **39) How is TREX apreciation going?** 
 
-Very very strong right now. Here is a deterministic pancakeswap chart (Courtesy of @xqzi from TG group https://t.me/eth_rex/111056): 
+Very very strong right now. Here is a deterministic pancakeswap chart price estimation (Courtesy of @xqzi from TG group https://t.me/eth_rex/111056): 
 
 At 16 TREX = 7941.18 BUSD/TREX
 
