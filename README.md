@@ -206,6 +206,10 @@ At 2 TREX = 360000.00 BUSD/TREX
 
 At 1 TREX = 1080000.00 BUSD/TREX
 
+**38) Will the benefits of a TREX ever disappear? Is it time limited in some way?**
+
+No and no. What will disappear (decrease) is the % of interest you get, since many TREX stakes are being made on a daily basis, and this lowers the % for every other stakes. 
+
 
 
 
