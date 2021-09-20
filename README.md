@@ -134,7 +134,7 @@ No. TREX staked stakes are transferable! And they don't lose their perk when you
 
 The example in the whitepaper says that "if an address has sent 2 BNB to auction, then claimed 50,000 REX, then staked those 50,000 REX (=100%) and is then hit by random generator, it gets 100% of 2 BNB as reward". It is safe to conclude that moving stakes diminishes your BPD premium. 
 
-**30) Hello all first time here, and i am about to make my first stake, but i want to ask a question about the Mrex, I read in the white paper that it allows you scrape early, but the question is does it get burned or do i lose when i scrape early or i can do more scrapes with 1 Mrex ?""
+**30) Hello all first time here, and i am about to make my first stake, but i want to ask a question about the Mrex, I read in the white paper that it allows you scrape early, but the question is does it get burned or do i lose when i scrape early or i can do more scrapes with 1 Mrex ?""**
 
 MREX token is not consumable! As long as you hold one, you can use its perks permanently. 
 
