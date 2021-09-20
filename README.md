@@ -122,6 +122,48 @@ Any scraped interest that goes above the amount of your principal DESTROYS your 
 
 Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping. 
 
+**27) If I create a 5555 stake while I hold my TREX to get maximum interest, then transfer that stake to a friend, who doesn't have a TREX, will the interest rate go down when they receive the stake?**
+
+No. TREX staked stakes are transferable! And they don't lose their perk when you transfer them. 
+
+**28) AXION and WISE are failed clones of HEX. How is REX better than these other projects?**
+
+10 testnets phases before mainnet, tons of simulations for economic sustanability attainment. Teams made of software engineers, economists, computer scientists, crypto old timers and so forth. 
+
+**29) If I move one of my stakes to another account will this reduce my stake % for bpd?**
+
+The example in the whitepaper says that "if an address has sent 2 BNB to auction, then claimed 50,000 REX, then staked those 50,000 REX (=100%) and is then hit by random generator, it gets 100% of 2 BNB as reward". It is safe to conclude that moving stakes diminishes your BPD premium. 
+
+**30) Hello all first time here, and i am about to make my first stake, but i want to ask a question about the Mrex, I read in the white paper that it allows you scrape early, but the question is does it get burned or do i lose when i scrape early or i can do more scrapes with 1 Mrex ?""
+
+MREX token is not consumable! As long as you hold one, you can use its perks permanently. 
+
+**31) if i just staked 4 hours ago I can still unstake my whole stash to restake it right?**
+
+Yes! The option "close" will be available in the first 24 hours of your stake if you want to give up on it. 
+
+**32) Is BPD on dashboard? If you don’t claim by the time the next auction starts do you lose it?**
+
+It will only appear in your dashboard if you won it! No, you don't lose unclaimed BPDs. They accumulate. 
+
+**33) Hi, it is stated that if you have 100k rex staked, you will be a member  of Club 5555. I have 102k, but I am not in the club. Anyone knows why?
+
+5555 club means that you own more than 100k rex staked PLUS a 5555 days stake (maximum period). In that case you don't have a 5555 days period stake. 
+
+**34) If get a TrEX now will it affect my stakes that are already made?
+
+No. Only stakes made with a TREX in the same wallet will get the perk. 
+
+**35) What is the current daily interest % for TREX stakes, as in today (09.20.21)?
+
+13.30%
+
+**36) Any Devs can help me to understand how we are at over 5b supply only 87 days, when from auction and inflation its not possible to be over 1.5b?**
+
+REX creation comes from many sources. And the biggest of all is, of course, yourself. You produce your REX tokens while staking them, because staking gives you interest. 
+
+
+
 
 
 
