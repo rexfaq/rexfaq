@@ -170,28 +170,43 @@ Please check answer (24) of this FAQ.
 
 Check the dev answer to this there: https://t.me/eth_rex/106978. As of today, this is all we know so far about it. 
 
-**39) How is TREX apreciation going?**
+**39) How is TREX apreciation going? 
 
-Very very strong right now. Here is a deterministic pancakeswap chart: 
+Very very strong right now. Here is a deterministic pancakeswap chart (Courtesy of @xqzi from TG group https://t.me/eth_rex/111056): 
 
 At 16 TREX = 7941.18 BUSD/TREX
+
 At 15 TREX = 9000.00 BUSD/TREX
+
 At 14 TREX = 10285.71 BUSD/TREX
+
 At 13 TREX = 11868.13 BUSD/TREX
+
 At 12 TREX = 13846.15 BUSD/TREX
+
 At 11 TREX = 16363.64 BUSD/TREX
+
 At 10 TREX = 19636.36 BUSD/TREX
+
 At 9 TREX = 24000.00 BUSD/TREX
+
 At 8 TREX = 30000.00 BUSD/TREX
+
 At 7 TREX = 38571.43 BUSD/TREX
+
 At 6 TREX = 51428.57 BUSD/TREX
+
 At 5 TREX = 72000.00 BUSD/TREX
+
 At 4 TREX = 108000.00 BUSD/TREX
+
 At 3 TREX = 180000.00 BUSD/TREX
+
 At 2 TREX = 360000.00 BUSD/TREX
+
 At 1 TREX = 1080000.00 BUSD/TREX
 
-Courtesy of @xqzi. 
+
 
 
 
