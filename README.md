@@ -158,10 +158,9 @@ No. Only stakes made with a TREX in the same wallet will get the perk.
 
 13.30%
 
-**36) Any Devs can help me to understand how we are at over 5b supply only 87 days, when from auction and inflation its not possible to be over 1.5b?**
+**36) That’s crazy, every BPD won came from a new wallet! That’s good but, does that mean it’s not random? Isn't it supposed to be random? Lol.**
 
-REX creation comes from many sources. And the biggest of all is, of course, yourself. You produce your REX tokens while staking them, because staking gives you interest. 
-
+Please check answer (24) of this FAQ. 
 
 
 
