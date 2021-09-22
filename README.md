@@ -210,6 +210,28 @@ At 1 TREX = 1080000.00 BUSD/TREX
 
 No and no. What will disappear (decrease) is the % of interest you get, since many TREX stakes are being made on a daily basis, and this lowers the % for every other stakes. 
 
+**39) Can binance due to some crypto regulations cann the coin?**
+
+This is a very unusual question about Rex. Binance is not a regulator, it's a crypto exchange. The only thing Binance can do is not list Rex as one of their trading crypto assets. This won't harm Rex at all, if we take into account Hex historical precification. It never needed a single exchange to succeed, it doesn't depend on that. 
+
+**40)How long is the revoke stake available without penalty after putting a stake? 1 day?**
+
+Yes. 
+
+**41) What happens when you break a stake?**
+
+You can either split it or revoke it. It's a contract! You made a commitment. It's written in stone since it's a smart contract. And immutable. So the penalty is from 100% of your principal to 0% calculated from day 1 to seven and a half years (when maximum staking 5555 days). If it's a 30 days stake, then it's 15 days until it has no penalty. 
+
+**42) Will I make to BPD? I have participated in 3 auctions - all with 5 bnb each + 20 mrex owned?**
+
+The chances are very high. That's because as in today (09/22/2021), you still have 271 days to be selected, and if you don't, you end up being eligible for the treasury. Check "BNB treasury" on Rex website. You can always create more wallets and make them eligible for BPD also. 
+
+
+
+
+
+
+
 
 
 
