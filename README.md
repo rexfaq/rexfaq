@@ -226,6 +226,54 @@ You can either split it or revoke it. It's a contract! You made a commitment. It
 
 The chances are very high. That's because as in today (09/22/2021), you still have 271 days to be selected, and if you don't, you end up being eligible for the treasury. Check "BNB treasury" on Rex website. You can always create more wallets and make them eligible for BPD also. 
 
+**43) Hi question can you lend someone the mrex for scraping then have it return to you? Does it affect your account in any way?**
+
+Yes, you can! And no, it doesn't affect it in any way. 
+
+**44) If we reach principal amount of REX in interest then its better if we not revoke it coz then our share will be lost completely ? Am I right?**
+
+Yes, at the same time it makes no sense to revoke a stake with its interest so high. The best thing to do it to scrape it. For that you need a MREX. 
+
+**45) Why do you believe Mrex to be more valuable? **
+
+Community did some colective reflection on MREX valuation in comparison to TREX. In the long run, interests rates will significantly decrease (devs. mentioned from 40 to 60% APY, in Hex it's 40%). So it can get to a point where MREX functionality turns out to be more valuable then TREX one. All of this is speculation, but the rationale behind  is interesting. 
+
+**46) Guys if i buy 0,1 bnb Rex per day i can drop on the same stake ?**
+
+No, you can't add up REX on a stake that has already been made. 
+
+**47) What is a Dead Stake?**
+
+It's a stake that got its interest (above 100%) fully scraped. And now can never produce interest again.
+
+**48) So the MRex lets me scrape the principal not interest??? I thought you scraped interest first.**
+
+You scrape interest only. You never scrape the principal. The principal you can only access through closing the stake. 
+
+**49) My earning not active yet, can I close stake?**
+
+If it's day -1 yes, if theres the option to revoke appearing to you, yes. If it's day 0 already then you can't close it without a huge penalty. 
+
+**50) Guys, trying to send BNB through the auction but doesn’t work. Anything wrong?**
+
+This is being worked out. But most of the time is due to the fact that the referral address that you're using is already being used for the same auction day. Just randomize more the referral or get one that you know that hasn't been used. MREX holders can be referrals without a limit. 
+
+**51) Anyone knows why Rex been dumping like that? This weekend I was a little off. (09.26.2021)**
+
+Well, whales are liquidating their Rex. This will happen a lot and there isn't much to do about it. It happens in every project. The biggest holders detain a certain power over the price, but this tends to deconcentrate in the long run. 
+
+**52) When does Rex get a CEX (Centralized Exchange) listing?**
+
+Rex design is not very compatible with CEX listings. It's simply not connected to that type of trade and market. Why? Because it's a financial product, a form of investment, a Certificate of Deposit. It would be strange to trade investments in a Centralized Exchanges. Imagine you are trading a contract. It doesn't make sense. The same applies to Hex, while being one of the first investment-only token at 2 years old it hasn't been listed yet. And maybe it never will. Simply because the token use case is not trade, but investment. 
+
+**53) "Some of you dont understand that this what made APY that high today was whales unstaking their big bags. There was (and hopefully stays like this) over 400000000 tokens circulating. Yes, closing dead stakes contribute to APY increase but not big fat 2% that we've seen today (in reference to the Dead Stakes event 09/24/21)). Let's hope whale(s) dont restake for some period and keep apy close to 15-16%."**
+
+This is a double edged sword. Like anything in tokenomics there are incentives and counter incentives to balance the game theory behind Rex. While whales scrape and sell REX, they do raise the interest % for everyone. At the same time they dump the price so it could lead to things being equal. People are attracted to both price apreciation and APY. This is why MASS ADOPTION is the overarching aim of Rex project. It simply solves everything in a win-win scenario to all participants. This of course comes with a price, rewards will be decreased for huge players and will get more and more distributed. 
+
+**54) Hey guys I’ve got two questions: when you close dead stakes is that the same as essentially burning those tokens? As in your principal that was staked?**
+
+No. The tokens aren't burnt. They are distributed in the form of shares among all stakeholders in a form of penalty for withdrawing the stake before its maturing period (that was defined in its birth). You can check formulas for penalty and share distribution in the White Paper. 
+
 
 
 
