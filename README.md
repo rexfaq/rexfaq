@@ -234,7 +234,7 @@ Yes, you can! And no, it doesn't affect it in any way.
 
 Yes, at the same time it makes no sense to revoke a stake with its interest so high. The best thing to do it to scrape it. For that you need a MREX. 
 
-**45) Why do you believe Mrex to be more valuable? **
+**45) Why do you believe Mrex to be more valuable?**
 
 Community did some colective reflection on MREX valuation in comparison to TREX. In the long run, interests rates will significantly decrease (devs. mentioned from 40 to 60% APY, in Hex it's 40%). So it can get to a point where MREX functionality turns out to be more valuable then TREX one. All of this is speculation, but the rationale behind  is interesting. 
 
