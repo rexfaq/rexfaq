@@ -8,6 +8,7 @@ Due to a smartcontract vulnerability that allowed investors to continuosly scrap
 
 The ETA is January 2022.  
 
+
 **1) What is the date of birth of Rex Token?**  
 
 REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021.
@@ -18,39 +19,28 @@ According to the latest AMA, Rex 2.0 deployment is depending on all its codes au
 
 **3) Where can I find all the frequent AMAs that are being held by the devs of Rex?**
 
-You can find them pinned on the telegram official group: https://t.me/newrextoken. Please be careful with any information published elsewhere. 
+You can find them pinned on the telegram official group: https://t.me/newrextoken. Please be careful with any information provided elsewhere. 
 
-                                                           
-                                                           
-                                                           
-                                                           
-                                                           
-                                                           
-                                                           The 5555 status and its perks 
+**4) Will MREX perks continue in Rex 2.0?**
 
-**2) How can I recover my “Club 5555” status?**  
+Yes. You can check all important information about MREX in this answer. A wallet holding a MREX enables the SCRAPE function of a stake. This means you can scrape your interest earlier than what your timelock allows you to do so without penalty. It allows you to rename your stake also, and this name is a transaction. It's useful to get information about your stake five, six years later. Finally, there are only 10.000 MREX available in the whole world. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~70 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section. 
 
-By making another 5555 days stake with at least 100,000.00 Rex tokens.
+**5) Why do we need Mrex to scrape the interest? How much do we need it?**
 
-**3) What are the benefits of “Club 5555” status?**  
+Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping. 
 
-As of today (09-2021), they have not been announced. But they are benefits, it’s better to have them than not.  
+**25) "It’s to my understanding that if you scrape interest, it lowers your over all shares as well. Does it lower it to the current share rate at the time of the scrape?"**
 
-**4) Are the benefits of “Club 5555” status somehow related to how long you’ve been a 5555 days staker?**  
+Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. The shares are dilluted in benefit of all other stakes. 
 
-We are aware of this but haven’t made a decision yet. As of now, there is no answer!  
+                                                
+                                                        
+MISCELANEOUS
 
-**5) Can a line of code written in the Rex smart contract on Binance Smart Chain ever be altered, in any sense?**  
-
-No. Not a single line of Rex can be altered. Ever. The contract is set in stone and the keys to it are burnt.  
 
 **7) Can second layer solutions be built on top of REX smart contracts?**  
 
 Yes! As of now, none of them came from the same team that built REX.  
-
-**8) Is a general interest rate based on the multiple stakes owned by the same wallet in the way?**  
-
-Thomas, REX founder, gave a nod to this on the official Telegram channel. [https://t.me/eth_rex/85262](https://t.me/eth_rex/85262). It’s not yet available.
 
 **9) Where can I revoke all my approved contracts on Metamask Wallet?**
 
@@ -64,9 +54,6 @@ https://pancakeswap.finance/
 
 In crypto, your private keys are the most important thing in the world. They are the final and irrevocable proof that you own your tokens. If anyone has them, they can do anything with your tokens. Always write them down in a piece of paper and store it safely. In metamask they go for 12 (twelve) english random words.
 
-**12) Is there an early days REX historical price and Market cap data?**
-
-Yes. https://nomics.com/assets/rex2-rex/history
 
 **13) Where can I buy BNB directly while in the US?**
 
@@ -78,19 +65,9 @@ Binance US does not have a withdrawal option for Smart Chain. Addresses from Bin
 
 **15) Are staked Rex tokens shown on any Market Cap site calculation?** 
 
-No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the main features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. Check the founder's specific comment on this feature here: https://t.me/eth_rex/54702
+No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the main features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. 
 
-**16) When did REX ecosystem hit the trading volume of 1M USD for the first time?**
 
-According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time, an important milestone for the project and the community. 
-
-**18) Will MREX perks continue in Rex 2.0?**
-
-Yes. You can check all important information about MREX in this answer. A wallet holding a MREX enables the SCRAPE function of a stake. This means you can scrape your interest earlier than what your timelock allows you to do so without penalty. It allows you to rename your stake also, and this name is a transaction. It's useful to get information about your stake five, six years later. Finally, there are only 10.000 MREX available in the whole world. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~70 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section. 
-
-**19) Why do we need Mrex to scrape the interest? How much do we need it?**
-
-Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping. 
 
 **20) Are there other Telegram groups for REX?**
 
@@ -257,32 +234,4 @@ Well, whales are liquidating their Rex. This will happen a lot and there isn't m
 **52) When does Rex get a CEX (Centralized Exchange) listing?**
 
 Rex design is not very compatible with CEX listings. It's simply not connected to that type of trade and market. Why? Because it's a financial product, a form of investment, a Certificate of Deposit. It would be strange to trade investments in a Centralized Exchanges. Imagine you are trading a contract. It doesn't make sense. The same applies to Hex, while being one of the first investment-only token at 2 years old it hasn't been listed yet. And maybe it never will. Simply because the token use case is not trade, but investment. 
-
-**53) "Some of you dont understand that this what made APY that high today was whales unstaking their big bags. There was (and hopefully stays like this) over 400000000 tokens circulating. Yes, closing dead stakes contribute to APY increase but not big fat 2% that we've seen today (in reference to the Dead Stakes event 09/24/21)). Let's hope whale(s) dont restake for some period and keep apy close to 15-16%."**
-
-This is a double edged sword. Like anything in tokenomics there are incentives and counter incentives to balance the game theory behind Rex. While whales scrape and sell REX, they do raise the interest % for everyone. At the same time they dump the price so it could lead to things being equal. People are attracted to both price apreciation and APY. This is why MASS ADOPTION is the overarching aim of Rex project. It simply solves everything in a win-win scenario to all participants. This of course comes with a price, rewards will be decreased for huge players and will get more and more distributed. 
-
-**54) Hey guys I’ve got two questions: when you close dead stakes is that the same as essentially burning those tokens? As in your principal that was staked?**
-
-No. The tokens aren't burnt. They are distributed in the form of shares among all stakeholders in a form of penalty for withdrawing the stake before its maturing period (that was defined in its birth). You can check formulas for penalty and share distribution in the White Paper. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
