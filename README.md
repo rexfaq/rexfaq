@@ -2,9 +2,31 @@
 
 _A thousand or more questions on REX token answered by the community_ (in progress) https://rex-token.com/start
 
+THIS FAQ IS BEING UPDATED FOR REX 2.0
+
+Due to a smartcontract vulnerability that allowed investors to continuosly scrape their interest with the "scrape" function, Rex is being redeployed on (the same) blockchain, Binance Smart Chain. 
+
+The ETA is January 2022.  
+
 **1) What is the date of birth of Rex Token?**  
 
-REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021.  
+REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021.
+
+**2) When REX 2.0 is set to be deployed, its ownership renounced and its liquidity added?**
+
+According to the latest AMA, Rex 2.0 deployment is depending on all its codes audits. They are happening as of this date (12.14.2021) and there are indications that everything could be set to launch until middle to end of January 2022. 
+
+**3) Where can I find all the frequent AMAs that are being held by the devs of Rex?**
+
+You can find them pinned on the telegram official group: https://t.me/newrextoken. Please be careful with any information published elsewhere. 
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           The 5555 status and its perks 
 
 **2) How can I recover my “Club 5555” status?**  
 
@@ -21,10 +43,6 @@ We are aware of this but haven’t made a decision yet. As of now, there is no a
 **5) Can a line of code written in the Rex smart contract on Binance Smart Chain ever be altered, in any sense?**  
 
 No. Not a single line of Rex can be altered. Ever. The contract is set in stone and the keys to it are burnt.  
-
-**6) Can Rex token and every other asset related to it be taken down, in any sense?**  
-
-No. Rex is sitting on Binance Smart Chain and currently there are 21 independent validators working for the chain. You can also run a full private node to support it. Check https://docs.binance.org/smart-chain/developer/fullnode.html.  
 
 **7) Can second layer solutions be built on top of REX smart contracts?**  
 
@@ -66,41 +84,15 @@ No! This is a unique feature of Rex. When you stake all your Rex they are burnt.
 
 According to nomics.com, on the 7th of Setember 2021. This means that one million dollars of "free" (unstaked) rex was traded for the first time, an important milestone for the project and the community. 
 
-**17) Is there a rex-token.com backup website?**  
+**18) Will MREX perks continue in Rex 2.0?**
 
-Yes! [https://internet-bonds.com/start](https://internet-bonds.com/start)
+Yes. You can check all important information about MREX in this answer. A wallet holding a MREX enables the SCRAPE function of a stake. This means you can scrape your interest earlier than what your timelock allows you to do so without penalty. It allows you to rename your stake also, and this name is a transaction. It's useful to get information about your stake five, six years later. Finally, there are only 10.000 MREX available in the whole world. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~70 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section. 
 
-**18) Is there other reason to hold a MREX besides getting a referral bonus?**
+**19) Why do we need Mrex to scrape the interest? How much do we need it?**
 
-Yes. A wallet holding a MREX enables the SCRAPE function of a stake. This means you can scrape your interest earlier than what your timelock allows you to do so without penalty. It allows you to rename your stake also, and this name is a transaction. It's useful to get information about your stake five, six years later. Finally, there are only 10.000 MREX available in the whole world. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. 
+Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping. 
 
-**19) Does holding more MREX makes me receive more % of bnb from the auctions ?**
-
-No. Only for referals reward. 1MREX = 4% BNB reward. 20 MREX = 6% BNB reward. So the amount varies from 4% to 6%. 
-
-**20) Can someone win BPD multiple times?**
-
-Yes, up until the end of the auction. After, only wallets that didn't win become eligible for the BNB treasury that works in a similar way for BPDs. 
-
-**21) BPD goes for?**
-
-Big pay days. 
-
-**22) Does BPD appears on the dashboard only if win? And If I don’t claim by the time the next auction starts do I lose it?**
-
-Yes.
-No. 
-
-**23) How do I achieve ULTRA REXICAN status?**
-
-By accumulating 25 bnb or more via referal rewards. In order to receive BNB for referal rewards (plus REX) your wallet needs to hold atleast one MREX. 
-
-
-**24) Does it makes sense that in one BPD day all wallets being rewarded are new wallets and in another day all of them are old wallets?**
-
-The first address is drawn randomly, then it's given out sequentially. This is the most efficient way to do it on the blockchain as Thomas has explained a long time ago. So all new wallets just means the first one picked is very new. Courtesy of @homuraaaaaa: https://t.me/c/1443915360/10209
-
-**25) Are there other Telegram groups for REX?**
+**20) Are there other Telegram groups for REX?**
 
 Yes!
 🇷🇺 Russian : https://t.me/rex_russia
@@ -108,7 +100,7 @@ Yes!
 🇮🇹 Italian :  https://t.me/rex_italia 
 🇹🇷 Turkey : https://t.me/rex_turk
 🇮🇳 Indian : t.me/rex_india 
-🏴 Quebec : https://t.me/Rex_Quebec
+CA Quebec : https://t.me/Rex_Quebec
 🇵🇱 Polish : https://t.me/rex_pl 
 🇯🇵 Japanese : https://t.me/rexjapan 
 🇲🇾 Malesian : https://t.me/rex_Malaysia_Indonesia
@@ -118,7 +110,7 @@ Yes!
 
 Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. The shares are dilluted in benefit of all other stakes. 
 
-**26) Why do we need Mrex to scrape the interest ? How much do we need it ?**
+**26) Why do we need Mrex to scrape the interest? How much do we need it?**
 
 Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping. 
 
