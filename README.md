@@ -41,9 +41,14 @@ Yes. You can check all important information about MREX in this answer. A wallet
 
 Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. The shares are dilluted in benefit of all other stakes. 
 
-**30) "Hello all first time here, and i am about to make my first stake, but i want to ask a question about the Mrex, I read in the white paper that it allows you scrape early, but the question is does it get burned or do i lose when i scrape early or i can do more scrapes with 1 Mrex ?"**
+**4) "Hello all first time here, and i am about to make my first stake, but i want to ask a question about the Mrex, I read in the white paper that it allows you scrape early, but the question is does it get burned or do i lose when i scrape early or i can do more scrapes with 1 Mrex ?"**
 
 MREX token is not consumable! As long as you hold one, you can use its perks permanently. 
+
+
+**5) "Why do you believe Mrex to be more valuable?**
+
+Community did some colective reflection on MREX valuation in comparison to TREX. In the long run, interests rates will significantly decrease (devs. mentioned from 40 to 60% APY, in Hex it's 40%). So it can get to a point where MREX functionality turns out to be more valuable then TREX one. All of this is speculation, but the rationale behind is thought provoking and should be taken into consideration. 
 
                                                 
                                      _TREX FEATURES THAT ARE PROBABLY STAYING ON REX 2.0_
@@ -127,46 +132,6 @@ CA Quebec : https://t.me/Rex_Quebec
 🇲🇾 Malesian : https://t.me/rex_Malaysia_Indonesia
 🇵🇭 philippines : https://t.me/joinchat/uiLxDGw0uW1iN2Q9
 
-
-                                  _TREX FEATURES THAT ARE PROBABLY STAYING ON REX 2.0_
-
-
-**1) Without Trex, what are the benefits of a 5555 days stake?**
-
-5555 status, 7x multiplier on your number of shares, 0,X% something interest daily, as of today, and token apreciation. Also consider the fact that after 7.5 years you can finish your stake without any penalty. It's up to you. 
-
-**38) Will the benefits of a TREX ever disappear? Is it time limited in some way?**
-
-No and no. What will disappear (decrease) is the % of interest you get, since many TREX stakes are being made on a daily basis, and this lowers the % for every other stakes. 
-
-**39) Can binance due to some crypto regulations cann the coin?**
-
-This is a very unusual question about Rex. Binance is not a regulator, it's a crypto exchange. The only thing Binance can do is not list Rex as one of their trading crypto assets. This won't harm Rex at all, if we take into account Hex historical precification. It never needed a single exchange to succeed, it doesn't depend on that. 
-
-**40)How long is the revoke stake available without penalty after putting a stake? 1 day?**
-
-Yes. 
-
-**41) What happens when you break a stake?**
-
-You can either split it or revoke it. It's a contract! You made a commitment. It's written in stone since it's a smart contract. And immutable. So the penalty is from 100% of your principal to 0% calculated from day 1 to seven and a half years (when maximum staking 5555 days). If it's a 30 days stake, then it's 15 days until it has no penalty. 
-
-
-**44) If we reach principal amount of REX in interest then its better if we not revoke it coz then our share will be lost completely ? Am I right?**
-
-Yes, at the same time it makes no sense to revoke a stake with its interest so high. The best thing to do it to scrape it. For that you need a MREX. 
-
-**45) Why do you believe Mrex to be more valuable?**
-
-Community did some colective reflection on MREX valuation in comparison to TREX. In the long run, interests rates will significantly decrease (devs. mentioned from 40 to 60% APY, in Hex it's 40%). So it can get to a point where MREX functionality turns out to be more valuable then TREX one. All of this is speculation, but the rationale behind  is interesting. 
-
-**46) Guys if i buy 0,1 bnb Rex per day i can drop on the same stake ?**
-
-No, you can't add up REX on a stake that has already been made. 
-
-
-
-**52) When does Rex get a CEX (Centralized Exchange) listing?**
+**13) When does Rex get a CEX (Centralized Exchange) listing?**
 
 Rex design is not very compatible with CEX listings. It's simply not connected to that type of trade and market. Why? Because it's a financial product, a form of investment, a Certificate of Deposit. It would be strange to trade investments in a Centralized Exchanges. Imagine you are trading a contract. It doesn't make sense. The same applies to Hex, while being one of the first investment-only token at 2 years old it hasn't been listed yet. And maybe it never will. Simply because the token use case is not trade, but investment. 
-
