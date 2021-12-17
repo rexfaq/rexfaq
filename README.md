@@ -4,7 +4,7 @@ _A thousand or more questions on REX token answered by the community_ (in progre
 
 THIS FAQ IS BEING UPDATED FOR REX 2.0
 
-Due to a smartcontract vulnerability that allowed investors to continuosly scrape their interest with the "scrape" function, Rex is being redeployed on (the same) blockchain, Binance Smart Chain. 
+Due to a smartcontract vulnerability that allowed investors to continuosly scrape their interest with the "scrape" function, Rex is being redeployed on the same blockchain, Binance Smart Chain. 
 
 The ETA is January 2022.  
 
@@ -25,10 +25,11 @@ You can find them pinned on the telegram official group: https://t.me/newrextoke
 
 The founder gave a nod to this and it's in REX project roadmap for sure!
 
+
                                _THE MREX CURRENT SITUATION AND FEATURES_
 
 
-**1) Why do we need Mrex to scrape the interest? How much do we need it?**
+**1) Why do we need Mrex to scrape the interest? How many do we need it?**
 
 Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping. 
 
@@ -44,14 +45,21 @@ Any scraped interest that goes above the amount of your principal DESTROYS your 
 
 MREX token is not consumable! As long as you hold one, you can use its perks permanently. 
 
-
-
                                                 
                                      _TREX FEATURES THAT ARE PROBABLY STAYING ON REX 2.0_
 
-**27) If I create a 5555 stake while I hold my TREX to get maximum interest, then transfer that stake to a friend, who doesn't have a TREX, will the interest rate go down when they receive the stake?**
+**1) If I create a 5555 stake while I hold my TREX to get maximum interest, then transfer that stake to a friend, who doesn't have a TREX, will the interest rate go down when they receive the stake?**
 
 No. TREX staked stakes are transferable! And they don't lose their perk when you transfer them. 
+
+
+**2) If get a TREX now will it affect my stakes that are already made?**
+
+No. Only stakes made with a TREX in the same wallet will get the perk. That being said, after a TREX being owned.
+
+**3) Will the benefits of a TREX ever disappear? Is it time limited in some way?**
+
+No and no. What will disappear (decrease) is the % of interest you get, since many TREX stakes are being made on a daily basis, and this lowers the % for every other stakes. 
 
 
                                                         
@@ -66,34 +74,46 @@ Yes! As of now, none of them came from the same team that built REX.
 
 https://app.unrekt.net/ (a more advanced version, but on beta, can be found here: https://v2.unrekt.net/).
 
-**3) PCS goes for?**
+**3) if i just staked 4 hours ago I can still unstake my whole stash to restake it right?**
+
+Yes! The option "close" will be available in the first 24 hours of your stake if you want to give up on it. 
+
+**4) PCS goes for?**
 
 https://pancakeswap.finance/
 
-**4) What are private keys and how important they are?**
+**5) What are private keys and how important they are?**
 
 In crypto, your private keys are the most important thing in the world. They are the final and irrevocable proof that you own your tokens. If anyone has them, they can do anything with your tokens. Always write them down in a piece of paper and store it safely. In metamask they go for 12 (twelve) english random words.
 
 
-**5) Where can I buy BNB directly while in the US?**
+**6) Where can I buy BNB directly while in the US?**
 
 You can buy it on the american partner of Binance: https://www.binance.us/en/home. 
 
-**6) When I withdraw my BNB coming from Binance or Binance US what network (chain) should I select, "Binance Chain" or "Smart Chain"?**
+**7) When I withdraw my BNB coming from Binance or Binance US what network (chain) should I select, "Binance Chain" or "Smart Chain"?**
 
 Binance US does not have a withdrawal option for Smart Chain. Addresses from Binance chain (BEP) ALWAYS start with "bnb1" on it. Addresses from Binance Smart Chain (BEP20) ALWAYS start with "0x". Every transaction with REX smart contracts happens in Binance SMART Chain (BEP20). So in order to save on fees for swapping between chains you can always go for BEP20. 
 
-**7) Are staked Rex tokens shown on any Market Cap site calculation?** 
+**8)Are staked Rex tokens shown on any Market Cap site calculation?** 
 
 No! This is a unique feature of Rex. When you stake all your Rex they are burnt. And only you can mint them back. You're not a "holder" of Rex anymore, you're in Ghost Mode. Privacy is one of the main features of this project and what sets it apart from other staking platforms. You can still see the total amount of Rex staked here: https://rex-token.com/dash. 
 
-**8) AXION and WISE are failed clones of HEX. How is REX better than these other projects?**
+**9) AXION and WISE are failed clones of HEX. How is REX better than these other projects?**
 
 Rex has endured considerable setbacks and its developers maintained perspective and hard code work regardless. The community is strong and this is, of course, a community endeavour, that is, the creation of a new "Certificate of Deposit" investment on a blockchain. There is only one sucessful until today! The market is still huge, and needs to be unlocked. During all the complications that this project endured, its founder never showed any sign of quitting. And now we have in front of us a completely new opportunity to make the first entries on what could be the major project on Binance Smart Chain. 
 
+**10)Can binance due to some crypto regulations STOP the Rex project in any sense?
+
+This is a very unusual question about Rex. Binance is not a regulator, it's a crypto exchange. The only thing Binance can do is not list Rex as one of their trading crypto assets. This won't harm Rex at all, if we take into account Hex historical precification. It never needed a single exchange to succeed, it doesn't depend on that. Because it's something else entirely, a Certificate of Deposit. 
 
 
-**8) Are there other Telegram groups for REX?**
+**11)What happens when you break a stake?**
+
+You can either split it or revoke it. It's a contract! You made a commitment. It's written in stone since it's a smart contract. And immutable. So the penalty is from 100% of your principal to 0% calculated from day 1 to seven and a half years (when maximum staking 5555 days). If it's a 30 days stake, then it's 15 days until it has no penalty. 
+
+
+**12) Are there any other Telegram Groups for REX?**
 
 Yes!
 🇷🇺 Russian : https://t.me/rex_russia
@@ -107,79 +127,13 @@ CA Quebec : https://t.me/Rex_Quebec
 🇲🇾 Malesian : https://t.me/rex_Malaysia_Indonesia
 🇵🇭 philippines : https://t.me/joinchat/uiLxDGw0uW1iN2Q9
 
+
                                   _TREX FEATURES THAT ARE PROBABLY STAYING ON REX 2.0_
 
-**30) Hello all first time here, and i am about to make my first stake, but i want to ask a question about the Mrex, I read in the white paper that it allows you scrape early, but the question is does it get burned or do i lose when i scrape early or i can do more scrapes with 1 Mrex ?""**
 
-MREX token is not consumable! As long as you hold one, you can use its perks permanently. 
-
-**31) if i just staked 4 hours ago I can still unstake my whole stash to restake it right?**
-
-Yes! The option "close" will be available in the first 24 hours of your stake if you want to give up on it. 
-
-**32) Is BPD on dashboard? If you don’t claim by the time the next auction starts do you lose it?**
-
-It will only appear in your dashboard if you won it! No, you don't lose unclaimed BPDs. They accumulate. 
-
-**33) Hi, it is stated that if you have 100k rex staked, you will be a member  of Club 5555. I have 102k, but I am not in the club. Anyone knows why?**
-
-5555 club means that you own more than 100k rex staked PLUS a 5555 days stake (maximum period). In that case you don't have a 5555 days period stake. 
-
-**34) If get a TrEX now will it affect my stakes that are already made?**
-
-No. Only stakes made with a TREX in the same wallet will get the perk. 
-
-**35) What is the current daily interest % for TREX stakes, as in today (09.20.21)?**
-
-13.30%
-
-**36) That’s crazy, every BPD won came from a new wallet! That’s good but, does that mean it’s not random? Isn't it supposed to be random? Lol.**
-
-Please check answer (24) of this FAQ. 
-
-**37) Without Trex, what are the benefits of a 5555 days stake?**
+**1) Without Trex, what are the benefits of a 5555 days stake?**
 
 5555 status, 7x multiplier on your number of shares, 0,X% something interest daily, as of today, and token apreciation. Also consider the fact that after 7.5 years you can finish your stake without any penalty. It's up to you. 
-
-**) Will REX project develop a DEX (Descentralized exchange) for selling stakes, perking stakes with TREX and MREX and so forth?**
-
-Check the dev answer to this there: https://t.me/eth_rex/106978. As of today, this is all we know so far about it. 
-
-**39) How is TREX apreciation going?** 
-
-Very very strong right now. Here is a deterministic pancakeswap chart price estimation (Courtesy of @xqzi from TG group https://t.me/eth_rex/111056): 
-
-At 16 TREX = 7941.18 BUSD/TREX
-
-At 15 TREX = 9000.00 BUSD/TREX
-
-At 14 TREX = 10285.71 BUSD/TREX
-
-At 13 TREX = 11868.13 BUSD/TREX
-
-At 12 TREX = 13846.15 BUSD/TREX
-
-At 11 TREX = 16363.64 BUSD/TREX
-
-At 10 TREX = 19636.36 BUSD/TREX
-
-At 9 TREX = 24000.00 BUSD/TREX
-
-At 8 TREX = 30000.00 BUSD/TREX
-
-At 7 TREX = 38571.43 BUSD/TREX
-
-At 6 TREX = 51428.57 BUSD/TREX
-
-At 5 TREX = 72000.00 BUSD/TREX
-
-At 4 TREX = 108000.00 BUSD/TREX
-
-At 3 TREX = 180000.00 BUSD/TREX
-
-At 2 TREX = 360000.00 BUSD/TREX
-
-At 1 TREX = 1080000.00 BUSD/TREX
 
 **38) Will the benefits of a TREX ever disappear? Is it time limited in some way?**
 
@@ -197,13 +151,6 @@ Yes.
 
 You can either split it or revoke it. It's a contract! You made a commitment. It's written in stone since it's a smart contract. And immutable. So the penalty is from 100% of your principal to 0% calculated from day 1 to seven and a half years (when maximum staking 5555 days). If it's a 30 days stake, then it's 15 days until it has no penalty. 
 
-**42) Will I make to BPD? I have participated in 3 auctions - all with 5 bnb each + 20 mrex owned?**
-
-The chances are very high. That's because as in today (09/22/2021), you still have 271 days to be selected, and if you don't, you end up being eligible for the treasury. Check "BNB treasury" on Rex website. You can always create more wallets and make them eligible for BPD also. 
-
-**43) Hi question can you lend someone the mrex for scraping then have it return to you? Does it affect your account in any way?**
-
-Yes, you can! And no, it doesn't affect it in any way. 
 
 **44) If we reach principal amount of REX in interest then its better if we not revoke it coz then our share will be lost completely ? Am I right?**
 
@@ -217,25 +164,7 @@ Community did some colective reflection on MREX valuation in comparison to TREX.
 
 No, you can't add up REX on a stake that has already been made. 
 
-**47) What is a Dead Stake?**
 
-It's a stake that got its interest (above 100%) fully scraped. And now can never produce interest again.
-
-**48) So the MRex lets me scrape the principal not interest??? I thought you scraped interest first.**
-
-You scrape interest only. You never scrape the principal. The principal you can only access through closing the stake. 
-
-**49) My earning not active yet, can I close stake?**
-
-If it's day -1 yes, if theres the option to revoke appearing to you, yes. If it's day 0 already then you can't close it without a huge penalty. 
-
-**50) Guys, trying to send BNB through the auction but doesn’t work. Anything wrong?**
-
-This is being worked out. But most of the time is due to the fact that the referral address that you're using is already being used for the same auction day. Just randomize more the referral or get one that you know that hasn't been used. MREX holders can be referrals without a limit. 
-
-**51) Anyone knows why Rex been dumping like that? This weekend I was a little off. (09.26.2021)**
-
-Well, whales are liquidating their Rex. This will happen a lot and there isn't much to do about it. It happens in every project. The biggest holders detain a certain power over the price, but this tends to deconcentrate in the long run. 
 
 **52) When does Rex get a CEX (Centralized Exchange) listing?**
 
