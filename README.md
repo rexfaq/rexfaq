@@ -26,7 +26,7 @@ You can find them pinned on the telegram official group: https://t.me/newrextoke
 The founder gave a nod to this and it's in REX project roadmap for sure!
 
 
-                               _THE MREX CURRENT SITUATION AND FEATURES_
+"THE MREX TOKEN FUTURE AND FEATURES THAT ARE STAYING"
 
 
 **1) Why do we need Mrex to scrape the interest? How many do we need it?**
@@ -46,12 +46,12 @@ Any scraped interest that goes above the amount of your principal DESTROYS your 
 MREX token is not consumable! As long as you hold one, you can use its perks permanently. 
 
 
-**5) "Why do you believe Mrex to be more valuable?**
+**5) "Why do some rexicans believe Mrex to be more valuable than Trex?**
 
 Community did some colective reflection on MREX valuation in comparison to TREX. In the long run, interests rates will significantly decrease (devs. mentioned from 40 to 60% APY, in Hex it's 40%). So it can get to a point where MREX functionality turns out to be more valuable then TREX one. All of this is speculation, but the rationale behind is thought provoking and should be taken into consideration. 
 
-                                                
-                                     _TREX FEATURES THAT ARE PROBABLY STAYING ON REX 2.0_
+
+TREX FEATURES THAT ARE PROBABLY STAYING ON REX 2.0
 
 **1) If I create a 5555 stake while I hold my TREX to get maximum interest, then transfer that stake to a friend, who doesn't have a TREX, will the interest rate go down when they receive the stake?**
 
@@ -68,7 +68,7 @@ No and no. What will disappear (decrease) is the % of interest you get, since ma
 
 
                                                         
-                                              _MISCELANEOUS INFORMATION_
+MISCELLANEOUS INFORMATIONS
 
 
 **1) Can second layer solutions be built on top of REX smart contracts?**  
@@ -108,12 +108,12 @@ No! This is a unique feature of Rex. When you stake all your Rex they are burnt.
 
 Rex has endured considerable setbacks and its developers maintained perspective and hard code work regardless. The community is strong and this is, of course, a community endeavour, that is, the creation of a new "Certificate of Deposit" investment on a blockchain. There is only one sucessful until today! The market is still huge, and needs to be unlocked. During all the complications that this project endured, its founder never showed any sign of quitting. And now we have in front of us a completely new opportunity to make the first entries on what could be the major project on Binance Smart Chain. 
 
-**10)Can binance due to some crypto regulations STOP the Rex project in any sense?
+**10) Can binance due to some crypto regulations STOP the Rex project in any sense?
 
 This is a very unusual question about Rex. Binance is not a regulator, it's a crypto exchange. The only thing Binance can do is not list Rex as one of their trading crypto assets. This won't harm Rex at all, if we take into account Hex historical precification. It never needed a single exchange to succeed, it doesn't depend on that. Because it's something else entirely, a Certificate of Deposit. 
 
 
-**11)What happens when you break a stake?**
+**11) What happens when you break a stake?**
 
 You can either split it or revoke it. It's a contract! You made a commitment. It's written in stone since it's a smart contract. And immutable. So the penalty is from 100% of your principal to 0% calculated from day 1 to seven and a half years (when maximum staking 5555 days). If it's a 30 days stake, then it's 15 days until it has no penalty. 
 
